@@ -1,0 +1,2 @@
+[streaming]
+streaming ansible_connection=local

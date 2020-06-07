@@ -1,0 +1,5 @@
+---
+- hosts: streaming
+  tasks:
+    - name: Echo Hello.
+      command: echo Hello.
